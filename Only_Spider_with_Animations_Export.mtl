@@ -5,7 +5,7 @@ Ks 0.0 0.0 0.0
 Ns 10.0
 d 1.0
 illum 2
-map_Kd textures/Spinnen_Bein_tex.jpg
+map_Kd Spinnen_Bein_tex.jpg
 
 newmtl Spider_Eye
 Ka 0.2 0.2 0.2
@@ -22,7 +22,7 @@ Ks 0.0 0.0 0.0
 Ns 5.0
 d 1.0
 illum 1
-map_Kd textures/SH3.png
+map_Kd SH3.png
 
 newmtl Spider_Fur_NONE
 Ka 0.2 0.2 0.2
@@ -31,7 +31,7 @@ Ks 0.0 0.0 0.0
 Ns 5.0
 d 1.0
 illum 1
-map_Kd textures/SH3.png
+map_Kd SH3.png
 
 newmtl Spider_NONE
 Ka 0.2 0.2 0.2
