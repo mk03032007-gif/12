@@ -1,50 +1,39 @@
 newmtl Spider
-Ka 0.2 0.2 0.2
-Kd 0.8 0.8 0.8
-Ks 0.0 0.0 0.0
-Ns 10.0
-d 1.0
-illum 2
-map_Kd Spinnen_Bein_tex.jpg
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+d 1
+illum 1
 
 newmtl Spider_Eye
-Ka 0.2 0.2 0.2
-Kd 0.0 0.0 0.0
-Ks 0.0 0.0 0.0
-Ns 5.0
-d 1.0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
 illum 1
 
 newmtl Spider_Fur
-Ka 0.2 0.2 0.2
-Kd 0.7 0.7 0.7
-Ks 0.0 0.0 0.0
-Ns 5.0
-d 1.0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
 illum 1
-map_Kd SH3.png
-
-newmtl Spider_Fur_NONE
-Ka 0.2 0.2 0.2
-Kd 0.7 0.7 0.7
-Ks 0.0 0.0 0.0
-Ns 5.0
-d 1.0
-illum 1
-map_Kd SH3.png
 
 newmtl Spider_NONE
-Ka 0.2 0.2 0.2
-Kd 0.8 0.8 0.8
-Ks 0.0 0.0 0.0
-Ns 10.0
-d 1.0
-illum 2
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 10
+d 1
+illum 1
 
 newmtl Spider_teeth
-Ka 0.2 0.2 0.2
-Kd 0.4 0.3 0.2
-Ks 0.0 0.0 0.0
-Ns 5.0
-d 1.0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Ns 5
+d 1
 illum 1
