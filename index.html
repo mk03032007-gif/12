@@ -1,0 +1,41 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Spider Test</title>
+
+    <script src="https://aframe.io/releases/1.4.2/aframe.min.js"></script>
+    <script src="https://unpkg.com/aframe-obj-model-component/dist/aframe-obj-model-component.min.js"></script>
+</head>
+
+<body>
+
+<a-scene>
+
+    <a-assets>
+        <a-asset-item
+            id="obj"
+            src="assets/Only_Spider_with_Animations_Export.obj">
+        </a-asset-item>
+
+        <a-asset-item
+            id="mtl"
+            src="assets/Only_Spider_with_Animations_Export.mtl">
+        </a-asset-item>
+    </a-assets>
+
+    <a-obj-model
+        src="#obj"
+        mtl="#mtl"
+        position="0 0 -3"
+        scale="0.1 0.1 0.1">
+    </a-obj-model>
+
+    <a-camera></a-camera>
+
+</a-scene>
+
+</body>
+</html>
+```
