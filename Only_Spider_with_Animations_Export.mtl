@@ -5,6 +5,8 @@ Ks 0 0 0
 Ns 10
 d 1
 illum 1
+map_Kd assets/textures/spider_diffuse.png
+
 
 newmtl Spider_Eye
 Ka 1 1 1
@@ -13,6 +15,8 @@ Ks 0 0 0
 Ns 5
 d 1
 illum 1
+map_Kd assets/textures/spider_eye.png
+
 
 newmtl Spider_Fur
 Ka 1 1 1
@@ -21,6 +25,8 @@ Ks 0 0 0
 Ns 5
 d 1
 illum 1
+map_Kd assets/textures/spider_fur.png
+
 
 newmtl Spider_NONE
 Ka 1 1 1
@@ -29,6 +35,8 @@ Ks 0 0 0
 Ns 10
 d 1
 illum 1
+# không texture (giữ vật liệu trơn)
+
 
 newmtl Spider_teeth
 Ka 1 1 1
@@ -37,3 +45,4 @@ Ks 0 0 0
 Ns 5
 d 1
 illum 1
+map_Kd assets/textures/spider_teeth.png
